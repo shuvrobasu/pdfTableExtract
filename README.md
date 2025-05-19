@@ -30,7 +30,7 @@ A professional Tkinter GUI utility to:
 
 2. **Run the script:**
     ```sh
-    python your_script_name.py
+    python pdf_Extractor2XL.py
     ```
 
 3. **Open a folder:**
